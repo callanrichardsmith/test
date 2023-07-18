@@ -2,4 +2,5 @@ const array = (arr) => {
 	console.log(arr);
 };
 
-let array1 = [1, 2, 3, 0, 7] 
+let array1 = [1, 2, 3, 0, 7];
+let test = "git"; 
